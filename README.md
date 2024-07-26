@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rocky1215
 - 👀 I’m interested in ... the human body, coding, instruments, and more
 - 🌱 I’m currently learning ... in the K-12 education system
-- 💞️ I’m looking to collaborate on ... multiple platforms - Discord, Messsages, and more
-- 📫 How to reach me ... .........
+- 💞️ I’m looking to collaborate on ... Python mainly, but also a little on HTML, CSS, and JS for website building someday
+- 📫 How to reach me ... you can reach me on multiple platforms; Discord, Messsages, and more
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Just call me Rocky
 
